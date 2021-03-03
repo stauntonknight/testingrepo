@@ -76,7 +76,7 @@ function plotData(maleData, femaleData, name) {
 	$(name).append('<br>');
 	$(name).append('FeMale');
 	$(name).append('<br>');
-	plot(femaleData, '.gender-summary')
+	plot(femaleData, name)
 	$(name).append('<br>');
 }
 
