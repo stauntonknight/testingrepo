@@ -75,6 +75,8 @@ function startCharting(data) {
 	    processedData[i][keys[key]] = data[keys[key]][i];
 	  }
   }
+  plotGeneric(processedData, ['gender'], '.gender-summary')
+  plotGeneric(processedData, ['departmet', 'gender'], '.gender-summary')
   plotGeneric(processedData, ['city', 'department', 'gender'], '.gender-summary')
 }
 
