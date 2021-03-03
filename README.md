@@ -43,4 +43,4 @@ Instructions to run :
   * This runs the server on port 8081
 * 3.2 Visit : http://localhost:8081/main.html
 
-
+## You might want to visit  http://localhost:8081/main_improved.html to see a slightly more scalable version of producing this output.
