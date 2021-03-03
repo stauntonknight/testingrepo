@@ -1,0 +1,501 @@
+,startDate,employmentType,department,level,city,gender,source,total
+0,2015-05-25,fullTime,Operations,3,Anchorage,Male,gamine,360385
+1,2019-04-18,fullTime,Operations,2,Lubbock,Female,gamine,281946
+2,2019-12-14,fullTime,Management,5,Newark,Female,gamine,130513
+3,2018-12-28,fullTime,Operations,5,Newark,Female,gamine,194085
+4,2015-12-13,fullTime,Management,2,Honolulu,Male,gamine,214717
+5,2020-04-10,fullTime,Kitchen,5,Oklahoma City,Female,gamine,130128
+6,2018-01-11,fullTime,Operations,1,Boise,Male,gamine,95003
+7,2012-12-04,fullTime,Front of house,3,Norfolk,Female,gamine,340847
+8,2020-09-05,fullTime,Kitchen,5,Akron,Female,gamine,338854
+9,2015-02-19,fullTime,Operations,4,Akron,Male,gamine,332375
+10,2018-10-13,fullTime,Kitchen,3,Fort Worth,Male,gamine,323886
+11,2018-08-10,fullTime,Front of house,1,Albuquerque,Female,gamine,314711
+12,2013-01-02,fullTime,Operations,1,Virginia Beach,Female,gamine,88575
+13,2018-10-10,fullTime,Kitchen,1,Las Vegas,Male,gamine,280834
+14,2019-11-23,fullTime,Front of house,1,Riverside,Female,gamine,215286
+15,2015-03-27,fullTime,Operations,3,Henderson,Female,gamine,130357
+16,2018-06-16,fullTime,Front of house,2,Portland,Female,gamine,218633
+17,2019-10-23,fullTime,Operations,2,Boston,Male,gamine,345341
+18,2013-01-12,fullTime,Management,1,San Jose,Female,gamine,272876
+19,2019-07-24,fullTime,Management,2,Oakland,Male,gamine,356216
+20,2017-03-16,fullTime,Kitchen,1,Arlington,Female,gamine,91430
+21,2017-03-16,fullTime,Front of house,4,Greensboro,Female,gamine,271982
+22,2015-05-29,fullTime,Operations,3,Montgomery,Male,gamine,301902
+23,2013-09-11,fullTime,Management,4,St. Louis,Male,gamine,213418
+24,2015-06-28,fullTime,Operations,5,Fort Worth,Female,gamine,142835
+25,2012-07-05,fullTime,Operations,3,San Diego,Female,gamine,160535
+26,2016-06-07,fullTime,Operations,5,Portland,Male,gamine,92071
+27,2015-05-30,fullTime,Management,3,Riverside,Female,gamine,135735
+28,2018-08-03,fullTime,Management,5,Chesapeake,Female,gamine,187052
+29,2014-12-21,fullTime,Kitchen,4,Detroit,Female,gamine,213974
+30,2018-06-04,fullTime,Kitchen,4,Fort Worth,Male,gamine,208949
+31,2016-06-19,fullTime,Operations,2,San Bernardino,Female,gamine,172642
+32,2017-04-28,fullTime,Management,2,Tampa,Male,gamine,208030
+33,2015-08-30,fullTime,Management,4,Los Angeles,Female,gamine,214980
+34,2013-10-04,fullTime,Operations,5,Henderson,Female,gamine,146654
+35,2013-12-23,fullTime,Kitchen,4,Santa Ana,Male,gamine,329074
+36,2012-02-14,fullTime,Operations,5,Jacksonville,Male,gamine,341269
+37,2019-11-20,fullTime,Management,5,Milwaukee,Female,gamine,336066
+38,2014-04-25,fullTime,Management,4,Norfolk,Female,gamine,270885
+39,2018-01-23,fullTime,Front of house,2,Anaheim,Male,gamine,175998
+40,2014-02-04,fullTime,Management,4,Santa Ana,Female,gamine,106102
+41,2013-01-23,fullTime,Management,2,Nashville-Davidson,Female,gamine,130684
+42,2014-11-20,fullTime,Management,5,Mesa,Female,gamine,104089
+43,2020-06-24,fullTime,Management,4,Chula Vista,Male,gamine,299558
+44,2012-05-21,fullTime,Front of house,4,Kansas City,Female,gamine,158619
+45,2012-01-24,fullTime,Front of house,5,Boise,Male,gamine,287689
+46,2020-04-11,fullTime,Kitchen,5,Fresno,Female,gamine,145069
+47,2012-07-18,fullTime,Kitchen,4,El Paso,Female,gamine,292501
+48,2013-02-22,fullTime,Kitchen,4,Bakersfield,Male,gamine,102457
+49,2017-11-11,fullTime,Front of house,4,Toledo,Male,gamine,347519
+50,2018-05-31,fullTime,Management,4,Anaheim,Female,gamine,177115
+51,2018-01-31,fullTime,Management,4,Charlotte,Female,gamine,100280
+52,2019-11-04,fullTime,Operations,4,Chandler,Male,gamine,301622
+53,2013-05-10,fullTime,Kitchen,3,Birmingham,Female,gamine,290096
+54,2012-07-16,fullTime,Operations,4,Henderson,Female,gamine,350337
+55,2014-06-24,fullTime,Operations,3,Stockton,Female,gamine,286413
+56,2019-01-31,fullTime,Front of house,1,Lexington-Fayette,Male,gamine,162757
+57,2016-02-04,fullTime,Management,1,San Jose,Female,gamine,169228
+58,2016-02-22,fullTime,Front of house,5,Los Angeles,Male,gamine,336726
+59,2015-01-06,fullTime,Operations,2,Fort Wayne,Female,gamine,183857
+60,2012-05-03,fullTime,Kitchen,3,St. Petersburg,Female,gamine,361467
+61,2012-01-17,fullTime,Kitchen,1,San Jose,Male,gamine,153350
+62,2014-06-30,fullTime,Operations,4,Honolulu,Male,gamine,72580
+63,2014-10-19,fullTime,Kitchen,3,Tulsa,Female,gamine,297501
+64,2018-09-28,fullTime,Management,5,Albuquerque,Female,gamine,94216
+65,2019-01-20,fullTime,Operations,4,Baltimore,Male,gamine,267157
+66,2015-04-30,fullTime,Management,1,Hialeah,Female,gamine,374641
+67,2015-07-31,fullTime,Kitchen,1,New Orleans,Female,gamine,232029
+68,2015-03-14,fullTime,Management,2,Plano,Female,gamine,296978
+69,2016-09-08,fullTime,Front of house,1,Seattle,Male,gamine,155220
+70,2020-09-21,fullTime,Kitchen,2,Aurora,Female,gamine,88784
+71,2019-07-25,fullTime,Front of house,4,New Orleans,Male,gamine,170049
+72,2020-04-12,fullTime,Front of house,5,Houston,Female,gamine,190635
+73,2014-05-29,fullTime,Management,1,Colorado Springs,Female,gamine,292496
+74,2014-06-12,fullTime,Operations,1,Minneapolis,Male,gamine,155731
+75,2017-05-31,fullTime,Operations,2,St. Louis,Male,gamine,216138
+76,2017-12-21,fullTime,Front of house,2,Lincoln,Female,gamine,172044
+77,2012-11-16,fullTime,Operations,1,Honolulu,Female,gamine,214245
+78,2012-10-11,fullTime,Management,2,Aurora,Male,gamine,164987
+79,2020-05-26,fullTime,Front of house,5,Stockton,Female,gamine,379378
+80,2020-04-01,fullTime,Operations,5,Pittsburgh,Female,gamine,214949
+81,2019-09-17,fullTime,Operations,3,Albuquerque,Female,gamine,350308
+82,2012-07-15,fullTime,Front of house,4,Corpus Christi,Male,gamine,242352
+83,2018-11-03,fullTime,Kitchen,1,Memphis,Female,gamine,105041
+84,2017-02-16,fullTime,Kitchen,4,St. Paul,Male,gamine,141453
+85,2013-11-29,fullTime,Management,1,Virginia Beach,Female,gamine,101782
+86,2015-09-08,fullTime,Kitchen,1,St. Petersburg,Female,gamine,174710
+87,2016-09-22,fullTime,Operations,1,Chesapeake,Male,gamine,329085
+88,2015-01-24,fullTime,Front of house,1,Madison,Male,gamine,153506
+89,2020-03-05,fullTime,Kitchen,2,Boston,Female,gamine,141028
+90,2012-02-07,fullTime,Kitchen,2,Memphis,Female,gamine,217888
+91,2016-05-27,fullTime,Operations,4,Baltimore,Male,gamine,324227
+92,2015-01-18,fullTime,Operations,2,Nashville-Davidson,Female,gamine,134412
+93,2016-07-06,fullTime,Kitchen,3,Wichita,Female,gamine,224355
+94,2012-10-08,fullTime,Kitchen,3,Toledo,Female,gamine,185246
+95,2013-10-04,fullTime,Management,4,Orlando,Male,gamine,352049
+96,2017-11-17,fullTime,Kitchen,1,Mesa,Female,gamine,243544
+97,2012-09-14,fullTime,Management,1,New Orleans,Male,gamine,68750
+98,2019-02-02,fullTime,Front of house,4,Aurora,Female,gamine,193210
+99,2017-02-15,fullTime,Management,1,Mesa,Female,gamine,219775
+100,2013-05-10,fullTime,Management,2,Nashville-Davidson,Male,gamine,198136
+101,2017-06-08,fullTime,Operations,3,Las Vegas,Male,gamine,355701
+102,2013-07-31,fullTime,Operations,3,El Paso,Female,gamine,82929
+103,2014-12-29,fullTime,Operations,3,Chula Vista,Female,gamine,90774
+104,2017-12-20,fullTime,Front of house,1,Madison,Male,gamine,86042
+105,2014-09-05,fullTime,Kitchen,3,Lincoln,Female,gamine,130018
+106,2013-09-21,fullTime,Kitchen,4,Colorado Springs,Female,gamine,101391
+107,2015-04-13,fullTime,Kitchen,3,Baltimore,Female,gamine,74283
+108,2014-02-25,fullTime,Kitchen,3,El Paso,Male,gamine,190865
+109,2015-02-01,fullTime,Operations,5,Honolulu,Female,gamine,135576
+110,2017-07-19,fullTime,Operations,1,Houston,Male,gamine,151718
+111,2018-01-31,fullTime,Management,2,Chicago,Female,gamine,211001
+112,2018-12-26,fullTime,Front of house,2,North Hempstead,Female,gamine,249456
+113,2015-03-21,fullTime,Management,2,Columbus,Male,gamine,256094
+114,2018-01-18,fullTime,Management,5,Aurora,Male,gamine,216979
+115,2014-03-11,fullTime,Kitchen,3,Las Vegas,Female,gamine,112441
+116,2016-12-03,fullTime,Front of house,5,Philadelphia,Female,gamine,235239
+117,2012-10-20,fullTime,Operations,1,Dallas,Male,gamine,173973
+118,2015-08-25,fullTime,Kitchen,2,Oklahoma City,Female,gamine,196973
+119,2019-04-26,fullTime,Operations,3,Detroit,Female,gamine,273819
+120,2017-09-17,fullTime,Management,3,St. Paul,Female,gamine,295439
+121,2020-07-21,fullTime,Kitchen,2,Anchorage,Male,gamine,304514
+122,2017-12-19,fullTime,Front of house,4,Jersey City,Female,gamine,243320
+123,2012-06-17,fullTime,Operations,4,Cincinnati,Male,gamine,259970
+124,2016-08-01,fullTime,Management,4,Oklahoma City,Female,gamine,76166
+125,2013-02-08,fullTime,Front of house,2,Santa Ana,Female,gamine,360288
+126,2020-07-23,fullTime,Kitchen,3,Hialeah,Male,gamine,303590
+127,2016-12-13,fullTime,Front of house,2,Buffalo,Male,gamine,117445
+128,2016-07-01,fullTime,Operations,4,Charlotte,Female,gamine,324519
+129,2020-01-09,fullTime,Operations,5,Plano,Female,gamine,313541
+130,2016-07-23,fullTime,Kitchen,2,Lubbock,Male,gamine,306511
+131,2014-08-26,fullTime,Operations,5,Honolulu,Female,gamine,172124
+132,2013-06-30,fullTime,Kitchen,3,Fort Wayne,Female,gamine,290234
+133,2015-04-03,fullTime,Management,5,San Bernardino,Female,gamine,101675
+134,2015-11-04,fullTime,Front of house,2,Scottsdale,Male,gamine,311606
+135,2015-09-21,fullTime,Management,1,Tampa,Female,gamine,219806
+136,2020-05-14,fullTime,Operations,1,Portland,Male,gamine,305111
+137,2015-12-20,fullTime,Front of house,1,Colorado Springs,Female,gamine,172082
+138,2019-05-01,fullTime,Kitchen,5,Arlington,Female,gamine,206061
+139,2019-03-14,fullTime,Operations,4,Boston,Male,gamine,60615
+140,2012-01-10,fullTime,Operations,4,Fort Wayne,Male,gamine,68982
+141,2015-04-02,fullTime,Operations,3,Aurora,Female,gamine,173032
+142,2015-09-03,fullTime,Operations,5,Lubbock,Female,gamine,74142
+143,2015-03-16,fullTime,Front of house,3,Raleigh,Male,gamine,210780
+144,2017-03-14,fullTime,Management,3,Boston,Female,gamine,361928
+145,2014-02-16,fullTime,Operations,3,Philadelphia,Female,gamine,94952
+146,2019-01-31,Part time,Operations,2,Norfolk,Female,gamine,178929
+147,2013-12-10,Part time,Operations,3,San Francisco,Male,gamine,121404
+148,2018-08-01,Part time,Kitchen,2,Cleveland,Female,gamine,371444
+149,2016-05-15,Part time,Kitchen,4,Wichita,Male,gamine,286054
+150,2016-04-16,Part time,Front of house,4,Cincinnati,Female,gamine,108530
+151,2017-09-02,Part time,Operations,1,Omaha,Female,gamine,109642
+152,2013-09-22,Part time,Management,3,Lincoln,Male,gamine,129072
+153,2012-07-26,Part time,Management,5,Buffalo,Male,gamine,268840
+154,2014-10-31,Part time,Management,1,Arlington,Female,gamine,225458
+155,2013-01-18,Part time,Operations,1,Norfolk,Female,gamine,184185
+156,2012-09-30,Part time,Operations,2,Fort Worth,Male,gamine,155276
+157,2015-07-31,Part time,Front of house,1,Anaheim,Female,gamine,154017
+158,2015-09-30,Part time,Management,1,Toledo,Female,gamine,308768
+159,2019-02-18,Part time,Kitchen,1,Lincoln,Female,gamine,235905
+160,2019-12-06,Part time,Front of house,4,Atlanta,Male,gamine,322740
+161,2015-01-18,Part time,Management,1,Scottsdale,Female,gamine,340848
+162,2014-12-02,Part time,Kitchen,4,Lincoln,Male,gamine,268678
+163,2012-12-23,Part time,Kitchen,4,Garland,Female,gamine,149512
+164,2012-05-25,Part time,Kitchen,5,Lubbock,Female,gamine,306592
+165,2012-09-09,Part time,Front of house,4,El Paso,Male,gamine,238218
+166,2012-11-21,Part time,Management,4,Cleveland,Male,gamine,181788
+167,2012-11-20,Part time,Operations,1,Fresno,Female,gamine,85285
+168,2014-10-17,Part time,Management,1,Philadelphia,Female,gamine,220568
+169,2020-01-28,Part time,Front of house,5,Chandler,Male,gamine,73443
+170,2014-08-29,Part time,Front of house,3,Pittsburgh,Female,gamine,303798
+171,2018-12-05,Part time,Front of house,2,Tucson,Female,gamine,302205
+172,2016-01-25,Part time,Management,5,San Jose,Female,gamine,260148
+173,2013-09-13,Part time,Management,1,Cincinnati,Male,gamine,89147
+174,2015-02-10,Part time,Management,1,Boise,Female,gamine,379633
+175,2017-01-15,Part time,Front of house,3,Laredo,Male,gamine,166517
+176,2017-07-29,Part time,Management,2,Long Beach,Female,gamine,255770
+177,2018-12-29,Part time,Kitchen,3,New Orleans,Female,gamine,112052
+178,2012-08-28,Part time,Management,4,Oklahoma City,Male,gamine,359671
+179,2020-07-31,Part time,Management,4,North Hempstead,Male,gamine,365517
+180,2014-12-31,Part time,Operations,5,St. Louis,Female,gamine,154064
+181,2018-10-11,Part time,Management,3,Birmingham,Female,gamine,288559
+182,2017-11-19,Part time,Management,3,Garland,Male,gamine,193539
+183,2020-06-11,Part time,Operations,4,El Paso,Female,gamine,333200
+184,2014-10-11,Part time,Operations,2,Arlington,Female,gamine,228734
+185,2016-07-12,Part time,Front of house,5,Akron,Female,gamine,334713
+186,2014-08-29,Part time,Front of house,1,Jersey City,Male,gamine,264755
+187,2020-06-24,Part time,Front of house,5,Scottsdale,Female,gamine,240883
+188,2013-01-18,Part time,Kitchen,3,Glendale,Male,gamine,169703
+189,2018-04-29,Part time,Management,4,Lexington-Fayette,Female,gamine,267374
+190,2019-01-06,Part time,Management,1,Stockton,Female,gamine,324653
+191,2012-10-08,Part time,Front of house,5,Jacksonville,Male,gamine,281036
+192,2015-01-06,Part time,Kitchen,5,Greensboro,Male,gamine,328348
+193,2014-08-19,Part time,Front of house,1,Birmingham,Female,gamine,90881
+194,2018-08-01,Part time,Front of house,4,Honolulu,Female,gamine,84400
+195,2020-03-25,Part time,Front of house,5,Washington,Male,gamine,228299
+196,2019-10-30,Part time,Operations,1,Anchorage,Female,gamine,109582
+197,2020-10-16,Part time,Kitchen,5,Omaha,Female,gamine,133738
+198,2016-11-26,Part time,Operations,1,Chandler,Female,gamine,312448
+199,2020-05-11,Part time,Management,1,Kansas City,Male,gamine,204697
+200,2019-03-25,Part time,Management,1,Arlington,Female,gamine,131667
+201,2019-06-25,Part time,Front of house,1,Lexington-Fayette,Male,gamine,247984
+202,2014-08-20,Part time,Front of house,2,St. Louis,Female,gamine,221510
+203,2013-06-30,Part time,Operations,2,Arlington,Female,gamine,176289
+204,2012-11-27,Part time,Kitchen,4,Los Angeles,Male,gamine,329819
+205,2019-09-18,Part time,Management,4,Portland,Male,gamine,354691
+206,2016-11-07,Part time,Management,4,Norfolk,Female,gamine,180613
+207,2020-10-19,Part time,Kitchen,4,Fort Wayne,Female,gamine,360725
+208,2012-05-05,contractor,Operations,4,Norfolk,Male,gamine,123336
+209,2016-02-26,contractor,Kitchen,3,Toledo,Female,gamine,218619
+210,2012-08-23,contractor,Front of house,3,New York,Female,gamine,160088
+211,2016-12-01,contractor,Front of house,4,Chula Vista,Female,gamine,220411
+212,2019-04-23,contractor,Management,2,Portland,Male,gamine,295120
+213,2012-09-28,contractor,Management,5,Miami,Female,gamine,349560
+214,2016-05-20,contractor,Front of house,3,Fort Wayne,Male,gamine,279181
+215,2012-05-13,contractor,Management,4,Austin,Female,gamine,170383
+216,2016-01-08,contractor,Management,1,Riverside,Female,gamine,256012
+217,2015-02-24,contractor,Management,4,Chandler,Male,gamine,114507
+218,2017-12-12,contractor,Kitchen,4,Henderson,Male,gamine,87601
+219,2017-08-01,contractor,Front of house,1,Glendale,Female,gamine,202850
+220,2019-07-17,contractor,Front of house,4,San Francisco,Female,gamine,204664
+221,2015-04-09,contractor,Operations,1,Nashville-Davidson,Male,gamine,85986
+222,2014-07-29,contractor,Operations,1,Buffalo,Female,gamine,87125
+223,2017-02-25,contractor,Kitchen,5,Wichita,Female,gamine,244554
+224,2017-07-19,contractor,Management,4,Raleigh,Female,gamine,360272
+225,2019-08-13,contractor,Operations,3,Austin,Male,gamine,178560
+226,2016-05-23,contractor,Kitchen,3,Colorado Springs,Female,gamine,90375
+227,2018-12-05,contractor,Management,5,Los Angeles,Male,gamine,94732
+228,2018-11-30,contractor,Kitchen,5,Houston,Female,gamine,101104
+229,2019-10-10,contractor,Front of house,3,Aurora,Female,gamine,232911
+230,2019-09-14,contractor,Management,2,El Paso,Male,gamine,95560
+231,2018-07-08,contractor,Management,4,Boston,Male,gamine,132265
+232,2016-04-17,contractor,Operations,5,Wichita,Female,gamine,276712
+233,2013-03-17,contractor,Kitchen,5,Aurora,Female,gamine,337359
+234,2018-12-31,contractor,Kitchen,1,Lincoln,Male,gamine,93606
+235,2014-05-12,contractor,Management,3,Fresno,Female,gamine,309837
+236,2017-01-04,contractor,Kitchen,4,Scottsdale,Female,gamine,142138
+237,2019-05-18,contractor,Management,2,Birmingham,Female,gamine,260971
+238,2019-11-05,contractor,Front of house,5,Cleveland,Male,gamine,292784
+239,2012-03-28,contractor,Front of house,3,Santa Ana,Female,gamine,253705
+240,2019-04-24,contractor,Operations,3,Fort Worth,Male,gamine,157999
+241,2013-12-12,contractor,Management,5,San Jose,Female,gamine,259670
+242,2019-08-13,contractor,Operations,1,San Antonio,Female,gamine,259390
+243,2012-07-17,contractor,Operations,5,Atlanta,Male,gamine,69907
+244,2018-10-14,contractor,Operations,5,Bakersfield,Male,gamine,264027
+245,2017-07-09,contractor,Operations,4,Arlington,Female,gamine,136644
+246,2013-04-15,contractor,Management,3,Tampa,Female,gamine,190363
+247,2014-11-04,contractor,Kitchen,1,Norfolk,Male,gamine,371454
+248,2015-04-09,contractor,Operations,5,Arlington,Female,gamine,193741
+249,2020-01-23,contractor,Management,2,Milwaukee,Female,hookfish,77075
+250,2012-05-24,contractor,Management,2,Aurora,Female,hookfish,182278
+251,2013-06-10,contractor,Management,1,Pittsburgh,Male,hookfish,275748
+252,2014-07-23,contractor,Operations,1,El Paso,Female,hookfish,303275
+253,2014-08-14,contractor,Front of house,5,Kansas City,Male,hookfish,72845
+254,2012-09-20,contractor,Management,3,Houston,Female,hookfish,234966
+255,2019-06-14,contractor,Management,1,Arlington,Female,hookfish,288357
+256,2012-07-21,contractor,Management,3,Stockton,Male,hookfish,248549
+257,2020-10-13,contractor,Front of house,2,New Orleans,Male,hookfish,181367
+258,2018-08-04,contractor,Front of house,3,Chicago,Female,hookfish,173513
+259,2016-08-17,contractor,Front of house,1,Chesapeake,Female,hookfish,175280
+260,2013-12-09,contractor,Kitchen,1,Garland,Male,hookfish,209903
+261,2019-08-18,contractor,Operations,1,Riverside,Female,hookfish,290989
+262,2015-06-10,contractor,Kitchen,3,Henderson,Female,hookfish,81054
+263,2013-03-23,contractor,Operations,1,New York,Female,hookfish,160880
+264,2014-11-25,contractor,Kitchen,3,Phoenix,Male,hookfish,181279
+265,2018-07-31,contractor,Operations,4,Garland,Female,hookfish,164604
+266,2017-01-24,contractor,Operations,1,St. Louis,Male,hookfish,343457
+267,2018-02-15,contractor,Management,5,Charlotte,Female,hookfish,326129
+268,2019-10-03,contractor,Kitchen,1,Denver,Female,hookfish,261880
+269,2016-07-14,contractor,Kitchen,3,Albuquerque,Male,hookfish,179555
+270,2017-01-01,contractor,Kitchen,2,Lubbock,Male,hookfish,366143
+271,2013-10-03,contractor,Management,2,Colorado Springs,Female,hookfish,290067
+272,2014-01-04,contractor,Kitchen,5,San Bernardino,Female,hookfish,124203
+273,2019-12-17,contractor,Front of house,1,Orlando,Male,hookfish,359556
+274,2019-06-19,contractor,Management,1,Cincinnati,Female,hookfish,94882
+275,2017-05-20,contractor,Operations,2,Durham,Female,hookfish,183249
+276,2015-09-20,contractor,Kitchen,3,Boise,Female,hookfish,223934
+277,2014-02-23,contractor,Management,5,Greensboro,Male,hookfish,128315
+278,2016-12-29,contractor,Operations,2,Kansas City,Female,hookfish,176817
+279,2018-05-25,contractor,Management,1,Glendale,Male,hookfish,163850
+280,2020-10-28,contractor,Front of house,5,Jacksonville,Female,hookfish,189361
+281,2017-09-01,contractor,Management,1,Henderson,Female,hookfish,206453
+282,2017-08-22,contractor,Operations,1,Akron,Male,hookfish,187646
+283,2018-03-15,contractor,Kitchen,5,Colorado Springs,Male,hookfish,109428
+284,2018-02-11,contractor,Front of house,2,Washington,Female,hookfish,123160
+285,2012-11-20,contractor,Kitchen,1,San Antonio,Female,hookfish,317105
+286,2017-05-29,contractor,Front of house,2,Stockton,Male,hookfish,367524
+287,2015-10-12,contractor,Operations,5,Akron,Female,hookfish,80843
+288,2015-08-30,contractor,Operations,5,Henderson,Female,hookfish,276052
+289,2015-11-04,contractor,Management,4,Corpus Christi,Female,hookfish,292366
+290,2016-10-01,contractor,Front of house,2,El Paso,Male,hookfish,292957
+291,2014-04-14,contractor,Front of house,2,Stockton,Female,hookfish,202058
+292,2020-10-20,contractor,Management,3,Los Angeles,Male,hookfish,269374
+293,2016-08-28,contractor,Front of house,2,Las Vegas,Female,hookfish,194092
+294,2019-03-29,contractor,Management,3,Chicago,Female,hookfish,118310
+295,2017-05-01,contractor,Kitchen,1,Birmingham,Male,hookfish,277381
+296,2012-05-10,contractor,Operations,2,Philadelphia,Male,hookfish,360352
+297,2017-06-10,contractor,Operations,5,Riverside,Female,hookfish,339860
+298,2014-03-25,contractor,Management,2,Greensboro,Female,hookfish,344464
+299,2013-12-17,contractor,Management,5,Milwaukee,Male,hookfish,348321
+300,2017-05-30,contractor,Front of house,3,Houston,Female,hookfish,175153
+301,2020-08-29,contractor,Front of house,4,Detroit,Female,hookfish,109757
+302,2017-03-04,contractor,Front of house,5,St. Paul,Female,hookfish,191855
+303,2018-07-31,contractor,Front of house,1,Glendale,Male,hookfish,333939
+304,2018-05-24,contractor,Operations,5,Orlando,Female,hookfish,109863
+305,2015-10-22,contractor,Kitchen,1,Boston,Male,hookfish,217623
+306,2015-05-04,contractor,Management,3,Arlington,Female,hookfish,165708
+307,2012-12-08,contractor,Management,3,North Hempstead,Female,hookfish,101636
+308,2014-04-20,contractor,Operations,5,North Hempstead,Male,hookfish,300638
+309,2020-10-05,contractor,Operations,1,Tulsa,Male,hookfish,332756
+310,2014-01-04,contractor,Kitchen,2,New Orleans,Female,hookfish,194319
+311,2017-09-06,full time,Operations,3,Baltimore,Female,hookfish,297422
+312,2019-02-27,full time,Management,5,Cleveland,Male,hookfish,247503
+313,2012-04-02,full time,Kitchen,4,Durham,Female,hookfish,202938
+314,2016-06-01,full time,Management,5,New Orleans,Female,hookfish,225695
+315,2013-04-01,full time,Front of house,5,Houston,Female,hookfish,340293
+316,2013-04-28,full time,Kitchen,3,Mesa,Male,hookfish,203408
+317,2016-12-23,full time,Management,3,Huntington,Female,hookfish,213502
+318,2017-06-12,full time,Management,4,Anchorage,Male,hookfish,355855
+319,2018-12-08,full time,Management,1,Stockton,Female,hookfish,287223
+320,2017-08-06,full time,Kitchen,3,Cleveland,Female,hookfish,118124
+321,2017-10-26,full time,Front of house,5,Garland,Male,hookfish,249401
+322,2018-04-09,full time,Kitchen,5,Minneapolis,Male,hookfish,282047
+323,2017-08-17,full time,Operations,2,Honolulu,Female,hookfish,177241
+324,2020-01-27,full time,Management,4,Kansas City,Female,hookfish,268895
+325,2019-07-15,full time,Front of house,3,Long Beach,Male,hookfish,335988
+326,2014-09-16,full time,Front of house,1,New York,Female,hookfish,347027
+327,2020-02-16,full time,Kitchen,4,Atlanta,Female,hookfish,122798
+328,2016-05-16,full time,Kitchen,1,Jacksonville,Female,hookfish,178085
+329,2014-12-13,full time,Operations,2,Stockton,Male,hookfish,267388
+330,2015-09-19,full time,Kitchen,2,Honolulu,Female,hookfish,352802
+331,2014-02-06,full time,Operations,2,San Antonio,Male,hookfish,166863
+332,2012-02-17,full time,Operations,2,Miami,Female,hookfish,106444
+333,2019-10-18,full time,Operations,3,Sacramento,Female,hookfish,136386
+334,2013-01-11,full time,Front of house,4,Anchorage,Male,hookfish,266924
+335,2019-08-16,full time,Kitchen,3,Virginia Beach,Male,hookfish,189174
+336,2016-03-15,full time,Kitchen,2,Long Beach,Female,hookfish,107825
+337,2019-08-22,full time,Front of house,2,Honolulu,Female,hookfish,187947
+338,2020-04-07,full time,Operations,4,Akron,Male,hookfish,157613
+339,2017-03-27,full time,Management,3,Riverside,Female,hookfish,328248
+340,2018-09-27,full time,Operations,4,Boston,Female,hookfish,190483
+341,2013-08-17,full time,Management,2,Memphis,Female,hookfish,237389
+342,2020-06-11,full time,Operations,2,Oklahoma City,Male,hookfish,186927
+343,2018-11-17,full time,Management,5,St. Louis,Female,hookfish,123663
+344,2020-03-24,full time,Kitchen,5,Pittsburgh,Male,hookfish,158517
+345,2020-05-11,full time,Front of house,2,Anchorage,Female,hookfish,217516
+346,2014-04-26,full time,Management,5,Tulsa,Female,hookfish,233645
+347,2020-10-06,full time,Management,1,Riverside,Male,hookfish,347797
+348,2017-10-22,full time,Operations,3,Oklahoma City,Male,hookfish,354308
+349,2014-08-27,full time,Front of house,4,Jersey City,Female,hookfish,307976
+350,2012-11-04,full time,Operations,1,Buffalo,Female,hookfish,87655
+351,2016-07-14,full time,Management,4,Chandler,Male,hookfish,211830
+352,2016-10-09,full time,Front of house,2,Modesto,Female,hookfish,94429
+353,2014-02-15,full time,Management,3,Kansas City,Female,hookfish,78298
+354,2012-07-28,full time,Operations,2,Montgomery,Female,hookfish,152995
+355,2019-11-21,full time,Operations,1,Arlington,Male,hookfish,234917
+356,2013-05-01,full time,Front of house,3,Bakersfield,Female,hookfish,178459
+357,2020-06-21,full time,Kitchen,5,Detroit,Male,hookfish,247478
+358,2015-04-17,full time,Management,4,Montgomery,Female,hookfish,177960
+359,2012-01-15,full time,Management,5,San Diego,Female,hookfish,361408
+360,2020-10-18,full time,Management,4,Austin,Male,hookfish,246083
+361,2018-08-05,full time,Front of house,2,Arlington,Male,hookfish,224904
+362,2012-10-24,full time,Front of house,5,Anchorage,Female,hookfish,247136
+363,2017-04-14,full time,Operations,4,Corpus Christi,Female,hookfish,98764
+364,2014-08-14,full time,Kitchen,2,Long Beach,Male,hookfish,87183
+365,2017-08-28,full time,Management,5,Huntington,Female,hookfish,171183
+366,2016-05-19,full time,Operations,1,Atlanta,Female,hookfish,301760
+367,2020-01-28,full time,Operations,4,Chula Vista,Female,hookfish,80401
+368,2018-06-28,full time,Kitchen,4,Los Angeles,Male,hookfish,351356
+369,2013-07-05,full time,Management,1,Minneapolis,Female,hookfish,350660
+370,2016-11-21,full time,Management,4,Norfolk,Male,hookfish,170061
+371,2019-10-15,full time,Kitchen,1,Birmingham,Female,hookfish,212570
+372,2013-02-06,full time,Management,2,Raleigh,Female,hookfish,92021
+373,2020-02-07,full time,Operations,4,Nashville-Davidson,Male,hookfish,350619
+374,2016-08-23,full time,Front of house,5,Newark,Male,hookfish,192039
+375,2016-05-22,full time,Management,1,Mesa,Female,hookfish,194092
+376,2012-09-18,full time,Kitchen,5,St. Louis,Female,hookfish,232321
+377,2018-04-27,full time,Front of house,2,Cincinnati,Male,hookfish,308780
+378,2014-01-20,full time,Operations,5,Stockton,Female,hookfish,241455
+379,2016-01-10,full time,Kitchen,5,Minneapolis,Female,hookfish,190947
+380,2019-12-24,full time,Management,5,Montgomery,Female,hookfish,95794
+381,2017-09-22,full time,Operations,1,Kansas City,Male,hookfish,230677
+382,2020-10-12,full time,Kitchen,5,St. Louis,Female,hookfish,61617
+383,2015-05-24,full time,Operations,5,San Jose,Male,hookfish,359077
+384,2014-06-14,full time,Management,4,Plano,Female,hookfish,263083
+385,2019-08-02,full time,Front of house,1,Cincinnati,Female,hookfish,144937
+386,2014-07-19,full time,Management,2,San Antonio,Male,hookfish,137617
+387,2019-02-12,full time,Front of house,2,Chula Vista,Male,hookfish,262508
+388,2012-11-08,full time,Operations,1,Baton Rouge,Female,hookfish,82130
+389,2015-11-29,full time,Kitchen,1,Long Beach,Female,hookfish,342132
+390,2015-06-23,full time,Management,4,Toledo,Male,hookfish,238815
+391,2018-11-15,full time,Kitchen,1,San Francisco,Female,hookfish,311928
+392,2013-02-27,full time,Kitchen,1,Riverside,Female,hookfish,255049
+393,2017-12-28,full time,Front of house,5,Houston,Female,hookfish,337178
+394,2015-06-13,full time,Kitchen,1,Newark,Male,hookfish,314887
+395,2019-03-15,full time,Operations,4,Newark,Female,hookfish,208181
+396,2020-04-15,full time,Kitchen,2,Jacksonville,Male,hookfish,246562
+397,2013-10-03,full time,Management,3,Oklahoma City,Female,hookfish,271202
+398,2015-11-03,full time,Front of house,1,Austin,Female,hookfish,136194
+399,2012-01-09,full time,Kitchen,5,Baltimore,Male,hookfish,220360
+400,2016-03-09,full time,Operations,1,Nashville-Davidson,Male,hookfish,260805
+401,2017-01-13,full time,Kitchen,2,Denver,Female,hookfish,242093
+402,2015-03-31,full time,Management,1,Norfolk,Female,hookfish,82010
+403,2019-11-25,full time,Kitchen,3,Huntington,Male,hookfish,279039
+404,2020-03-28,full time,Front of house,5,Mesa,Female,hookfish,293750
+405,2019-03-30,full time,Kitchen,4,Minneapolis,Female,hookfish,308252
+406,2013-11-15,full time,Operations,4,Mesa,Female,hookfish,169872
+407,2020-03-12,full time,Operations,1,Minneapolis,Male,hookfish,212360
+408,2017-09-09,full time,Management,2,Indianapolis,Female,hookfish,70625
+409,2014-03-23,full time,Kitchen,2,Santa Ana,Male,hookfish,244508
+410,2016-03-26,full time,Kitchen,1,Durham,Female,hookfish,220868
+411,2016-11-03,full time,Management,2,Durham,Female,hookfish,155592
+412,2018-01-24,full time,Operations,1,Seattle,Male,hookfish,197872
+413,2016-02-11,full time,Front of house,1,Virginia Beach,Male,hookfish,108718
+414,2017-01-05,full time,Front of house,4,Greensboro,Female,hookfish,313577
+415,2014-01-18,full time,Operations,2,Laredo,Female,hookfish,222113
+416,2016-03-15,full time,Front of house,5,Arlington,Male,hookfish,185727
+417,2013-02-09,full time,Front of house,4,Long Beach,Female,hookfish,234020
+418,2017-12-29,full time,Management,3,Chesapeake,Female,hookfish,182054
+419,2015-04-03,full time,Front of house,1,Arlington,Female,hookfish,98973
+420,2019-01-20,full time,Management,4,Memphis,Male,hookfish,304553
+421,2019-10-03,full time,Kitchen,1,Tulsa,Female,hookfish,81860
+422,2018-12-22,full time,Kitchen,2,Newark,Male,hookfish,171578
+423,2019-03-24,full time,Kitchen,5,Seattle,Female,hookfish,96506
+424,2015-09-11,full time,Management,5,Plano,Female,hookfish,333539
+425,2018-02-20,full time,Kitchen,1,Garland,Male,hookfish,64959
+426,2015-09-02,full time,Kitchen,4,Orlando,Male,hookfish,349462
+427,2018-12-26,full time,Management,2,Tampa,Female,hookfish,228132
+428,2018-08-09,full time,Operations,3,Reno,Female,hookfish,167349
+429,2019-04-27,full time,Front of house,5,Montgomery,Male,hookfish,296001
+430,2016-09-23,full time,Management,3,Arlington,Female,hookfish,72789
+431,2017-11-17,full time,Operations,5,Milwaukee,Female,hookfish,134987
+432,2014-07-17,full time,Front of house,3,Riverside,Female,hookfish,295100
+433,2020-07-11,full time,Operations,4,Laredo,Male,hookfish,345269
+434,2020-04-27,full time,Front of house,1,Kansas City,Female,hookfish,353100
+435,2014-08-04,full time,Management,4,Greensboro,Male,hookfish,174192
+436,2015-10-06,full time,Operations,2,Cleveland,Female,hookfish,135579
+437,2017-09-21,full time,Kitchen,1,Honolulu,Female,hookfish,232338
+438,2014-03-02,full time,Management,4,Sacramento,Male,hookfish,300124
+439,2012-06-18,full time,Management,2,Garland,Male,hookfish,299177
+440,2018-08-22,full time,Management,3,Indianapolis,Female,hookfish,98096
+441,2015-07-03,full time,Kitchen,3,Arlington,Female,hookfish,166151
+442,2015-01-25,full time,Front of house,1,Rochester,Male,hookfish,302717
+443,2018-08-18,full time,Kitchen,3,San Jose,Female,hookfish,330359
+444,2014-11-29,full time,Management,1,El Paso,Female,hookfish,164620
+445,2013-07-22,full time,Operations,4,St. Petersburg,Female,hookfish,133222
+446,2018-09-22,full time,Operations,1,Dallas,Male,hookfish,221448
+447,2019-02-05,full time,Front of house,4,Henderson,Female,hookfish,128528
+448,2020-07-24,full time,Kitchen,5,San Diego,Male,hookfish,79829
+449,2018-01-15,full time,Operations,1,Long Beach,Female,hookfish,361762
+450,2017-11-12,full time,Management,1,Bakersfield,Female,hookfish,203459
+451,2016-06-29,full time,Kitchen,4,Aurora,Male,hookfish,253321
+452,2017-01-06,full time,Front of house,3,San Francisco,Male,hookfish,217498
+453,2018-08-26,full time,Management,2,Toledo,Female,hookfish,171655
+454,2016-06-19,full time,Kitchen,3,Pittsburgh,Female,hookfish,238615
+455,2019-02-19,full time,Front of house,5,Mesa,Male,hookfish,315863
+456,2015-10-05,full time,Operations,1,Cleveland,Female,hookfish,371237
+457,2012-03-14,full time,Management,1,Cleveland,Female,hookfish,267208
+458,2016-10-30,full time,Operations,5,Greensboro,Female,hookfish,62533
+459,2014-10-09,full time,Operations,4,Reno,Male,hookfish,344323
+460,2016-07-09,full time,Kitchen,1,Omaha,Female,hookfish,106101
+461,2017-09-19,full time,Management,2,Rochester,Male,hookfish,117155
+462,2019-06-29,full time,Front of house,3,Aurora,Female,hookfish,132706
+463,2017-03-26,full time,Management,5,Dallas,Female,hookfish,164211
+464,2015-06-14,full time,Operations,1,Sacramento,Male,hookfish,318504
+465,2013-03-21,full time,Management,5,San Jose,Male,hookfish,180564
+466,2013-02-07,full time,Kitchen,4,Washington,Female,hookfish,353312
+467,2018-11-21,full time,Management,3,Arlington,Female,hookfish,194790
+468,2020-10-01,full time,Management,5,Washington,Male,hookfish,242378
+469,2015-04-23,full time,Management,5,El Paso,Female,hookfish,86970
+470,2020-06-21,full time,Front of house,1,Sacramento,Female,hookfish,300355
+471,2013-02-09,full time,Operations,2,New Orleans,Female,hookfish,163384
+472,2015-03-30,full time,Front of house,5,Virginia Beach,Male,hookfish,176071
+473,2013-05-07,full time,Operations,5,Wichita,Female,hookfish,369188
+474,2014-01-10,full time,Operations,1,El Paso,Male,hookfish,201837
+475,2012-11-16,full time,Kitchen,4,Wichita,Female,hookfish,237066
+476,2018-07-22,full time,Front of house,2,Anchorage,Female,hookfish,148927
+477,2014-10-02,full time,Operations,2,Jacksonville,Male,hookfish,352113
+478,2016-06-20,full time,Management,4,Chandler,Male,hookfish,272551
+479,2019-04-01,full time,Operations,4,Portland,Female,hookfish,327926
+480,2017-09-25,full time,Management,3,Santa Ana,Female,hookfish,330454
+481,2018-12-08,full time,Operations,2,San Jose,Male,hookfish,72389
+482,2020-04-04,full time,Front of house,2,Chicago,Female,hookfish,329887
+483,2016-05-17,full time,Management,4,Huntington,Female,hookfish,229693
+484,2012-03-05,full time,Operations,4,Raleigh,Female,hookfish,278653
+485,2012-06-20,full time,Operations,2,Orlando,Male,hookfish,244004
+486,2018-06-24,full time,Management,4,San Francisco,Female,hookfish,347130
+487,2015-11-15,full time,Front of house,4,San Bernardino,Male,hookfish,251664
+488,2013-12-27,full time,Kitchen,5,Chicago,Female,hookfish,306525
+489,2018-01-14,full time,Front of house,1,Plano,Female,hookfish,270367
+490,2012-01-29,full time,Kitchen,4,Montgomery,Male,hookfish,155981
+491,2012-08-01,full time,Front of house,2,Memphis,Male,hookfish,190219
+492,2019-12-12,full time,Front of house,4,Lexington-Fayette,Female,hookfish,313331
+493,2012-11-02,full time,Management,5,Fort Worth,Female,hookfish,327724
+494,2017-04-29,full time,Operations,5,New Orleans,Male,hookfish,130030
+495,2012-06-07,full time,Front of house,1,Oklahoma City,Female,hookfish,163184
+496,2018-11-19,full time,Kitchen,4,Plano,Female,hookfish,183225
+497,2014-07-05,full time,Front of house,2,Lubbock,Female,hookfish,160926
+498,2014-06-09,full time,Front of house,5,Jersey City,Male,hookfish,300753
+499,2016-02-03,full time,Front of house,3,New York,Female,hookfish,281305
