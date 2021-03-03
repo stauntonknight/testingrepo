@@ -1,3 +1,9 @@
+- you need to download google-closure from here first and put it at this level.
+
+- https://github.com/google/closure-library/
+
+and run npm install
+
 test.py is the server to return the json.
 
 json is returned in combined format from two files.
